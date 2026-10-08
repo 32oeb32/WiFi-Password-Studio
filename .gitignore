@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+.DS_Store
+# Avoid leaking generated local passwords or candidate datasets
+wifi_password.txt
+patterned_candidates.txt
+synthetic_wpa_lab.txt
+*_wordlist.txt
+*_candidates.txt
+secrets/
+outputs/

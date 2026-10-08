@@ -1,0 +1,20 @@
+
+────────────────────────────────────────────────────────
+  SPES_MEA_IN_DEO_EST#32
+  #DEV32#
+────────────────────────────────────────────────────────
+  Wi-Fi Password Studio  ·  Offline password lab
+
+1) Strong random Wi-Fi password
+2) Random memorable passphrase
+3) Custom-word passphrase (less secure)
+4) Evaluate an existing password
+5) Build patterned candidate wordlist
+6) Exit
+
+────────────────────────────────────────────────────────
+DEV32  ·  Ideas or feedback? Get in touch.
+Optional donations help keep development going.
+dev32@apex32-secure.com
+
+Choose [1-6]: Goodbye.

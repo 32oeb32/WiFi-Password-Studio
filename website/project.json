@@ -1,0 +1,17 @@
+{
+  "slug": "wifi-password-studio",
+  "title": "Wi-Fi Password Studio",
+  "category": "Developer Projects / Security Education",
+  "summary": "Offline Python CLI for WPA/WPA2 passphrase generation, basic security assessment, and synthetic password-pattern research.",
+  "description": "A dependency-free terminal application for creating secure Wi-Fi passwords, working with memorable passphrases, and exploring synthetic password structures in a local lab.",
+  "version": "v2",
+  "status": "Community preview",
+  "language": "Python",
+  "platforms": ["Kali Linux", "Linux"],
+  "tags": ["Offline", "Python", "Password Generation", "Security Education"],
+  "internalPath": "/developer-projects/wifi-password-studio",
+  "repositoryUrlWhenPublished": "https://github.com/32oeb32/WiFi-Password-Studio",
+  "features": ["Cryptographically random passwords", "Synthetic memorable passphrases", "Basic local weakness checks", "Synthetic pattern datasets", "Six-option interactive CLI"],
+  "limits": ["No real crack-time estimates", "No Wi-Fi handshake processing", "No network requests"],
+  "contactEmail": "dev32@apex32-secure.com"
+}
